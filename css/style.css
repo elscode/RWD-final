@@ -660,10 +660,11 @@ table {
   height: 32px;
   border: 1px solid #3D1101;
   background-color: rgba(255, 255, 255, .8);
+  padding: 0!important;
 }
 .search-btn{
   width:36px;
-  height: 32px;
+  height: 34px;
   border: 2px solid #3D1101;
   background-color:#3D1101;
   color:rgb(255, 255, 255);
